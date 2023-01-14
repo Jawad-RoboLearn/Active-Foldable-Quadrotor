@@ -1,6 +1,7 @@
 # Active-Foldable-Quadrotor
 The active foldable quadrotor
-![image](https://user-images.githubusercontent.com/70571986/212499838-8d5ddd4b-a0a9-42d2-bccc-d256f7672544.png)
+
+![image](https://user-images.githubusercontent.com/70571986/212499896-54cb0d8b-625f-4980-beb1-62b1e0a3221d.png)
 
 
 motor_control.ino = You may use Arduino for this code for running the 4 motors of active foldable quadrotors. It can receive the motor commands from the ROS 
